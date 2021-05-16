@@ -21,13 +21,6 @@ You are asked to accomplish the following main tasks:
 
 * **[Optional Challenge](#Optional-Challenge):** Deploy your notebook to Amazon SageMaker.
 
----
-
-### Files
-
-* [crypto_clustering.ipynb](Starter_Files/crypto_clustering.ipynb)
-
----
 
 ### Instructions
 
